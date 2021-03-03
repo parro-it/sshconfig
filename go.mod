@@ -1,3 +1,3 @@
-module github.com/parro-it/sshconfig
+module github.com/mikkeloscar/sshconfig
 
 go 1.16
